@@ -1,0 +1,39 @@
+header{
+    background-image: url();
+}
+a{
+    cursor: pointer;
+}
+body{
+    background-color: #eee;
+    
+}
+#hero{
+    margin-top: 15%!important;
+}
+
+body{
+    height: 1000px;
+}
+.navbar-nav{
+    margin-left: 50% !important;
+}
+.carousel{
+    margin-top: 10% !important;
+}
+.nav-item{
+    margin-left: 12px !important;
+    font-size: 20px;
+}
+
+.carousel-indicators button{
+   
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 50% !important;
+    background-color: red !important;
+}
+.carousel-item img{
+    width: 100px !important;
+height: 100px!important;
+}
